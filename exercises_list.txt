@@ -1,0 +1,66 @@
+solo exercises:
+  two hand:
+    single flip:
+      - front flip
+      - back flip
+      - side flip
+      - palm spin
+    
+    double flip:
+      - double front
+      - double back
+      - volleyball flip
+      - stop flip
+        - front stop
+        - back stop
+      - catch flip
+    
+    tripple flip:
+      - tripple front
+    
+    throws:
+      - cannonball throw
+      - overhead throw
+    
+    catches:
+      - cannonball catch
+      - cannonball squat
+      
+    two bell flips:
+      - double front / back
+      - upper downer
+      - crossbody cross
+    
+    
+  one hand:
+    flips:
+      - front flip
+      - back flip
+      - side flip (inner and outer)
+      - palm spin
+      - vertical palm spin
+      - crossbody side flip
+      - open shoulder flip
+      - leg flip
+      - crossback flip
+      - reverse cowboy flip
+      
+    cowboy flip:
+      - up cowboy
+      - down cowboy
+      - side cowboy
+      - crossbody cowboy
+     
+    catches:
+      - cannonball catch
+      - figure 8 catch
+      - body spin
+      
+
+pair exercises:
+  basic throw
+  flip throw
+  double flip throw
+  cannonball throw
+  overhead throw
+  
