@@ -1,0 +1,3 @@
+# Workout log
+
+## New exercises
