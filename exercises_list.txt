@@ -5,6 +5,7 @@ solo exercises:
       - back flip
       - side flip
       - palm spin
+      - fake offer
     
     double flip:
       - double front
@@ -15,8 +16,8 @@ solo exercises:
         - back stop
       - catch flip
     
-    tripple flip:
-      - tripple front
+    triple flip:
+      - triple front
     
     throws:
       - cannonball throw
