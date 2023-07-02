@@ -56,7 +56,9 @@ solo exercises:
       - cannonball catch
       - figure 8 catch
       - body spin
-      
+    
+    holds:
+      - vertical hold.
 
 pair exercises:
   basic throw
@@ -64,4 +66,4 @@ pair exercises:
   double flip throw
   cannonball throw
   overhead throw
-  
+  - lateral throw from body spin.
