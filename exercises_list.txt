@@ -59,6 +59,7 @@ solo exercises:
     
     holds:
       - vertical hold.
+      - look! It's a kettlebell!
 
 pair exercises:
   basic throw
