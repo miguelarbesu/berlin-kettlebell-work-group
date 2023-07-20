@@ -56,11 +56,13 @@ solo exercises:
     catches:
       - cannonball catch
       - figure 8 catch
-      - body spin
+         - figure 8 -> cowboy flip
+         - figure 8 -> lateral swing
+      - around the body spin
     
     holds:
       - vertical hold.
-      - look! It's a kettlebell!
+      - look! It's a kettlebell! 
 
 pair exercises:
   basic throw
