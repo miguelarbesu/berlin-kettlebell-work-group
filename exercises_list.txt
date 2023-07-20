@@ -6,6 +6,7 @@ solo exercises:
       - side flip
       - palm spin
       - fake offer
+        - fake offer -> flip 
     
     double flip:
       - double front
@@ -29,7 +30,7 @@ solo exercises:
       
     two bell flips:
       - double front / back
-      - upper downer
+      - upper - downer
       - crossbody cross
     
     
@@ -68,3 +69,4 @@ pair exercises:
   cannonball throw
   overhead throw
   - lateral throw from body spin.
+
