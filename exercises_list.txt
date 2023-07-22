@@ -60,6 +60,11 @@ solo exercises:
     holds:
       - vertical hold.
       - look! It's a kettlebell!
+  
+  walks:
+    - lunge & switch
+    - acid quads (lunges with 2 weights)
+    - farmer's walk
 
 pair exercises:
   basic throw
