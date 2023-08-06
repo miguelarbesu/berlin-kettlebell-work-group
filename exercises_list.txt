@@ -59,6 +59,7 @@ solo exercises:
          - figure 8 -> cowboy flip
          - figure 8 -> lateral swing
       - around the body spin
+      - dragon ball catch
     
     holds:
       - vertical hold.
