@@ -16,6 +16,7 @@ solo exercises:
         - front stop
         - back stop
       - catch flip
+      - twist flip (z axis rotation)
     
     triple flip:
       - triple front
@@ -70,6 +71,14 @@ solo exercises:
     - acid quads (lunges with 2 weights)
     - farmer's walk
 
+dragons:
+    - the dragon
+    - double dragon
+      - double dragon twist
+    - baby dragon
+    - arnold dragon
+    - sanchin dragon
+
 pair exercises:
   basic throw
   flip throw
@@ -77,4 +86,10 @@ pair exercises:
   cannonball throw
   overhead throw
   - lateral throw from body spin.
+
+  volleyball throw
+  dragon throw
+  half sombrero
+  full sombrero
+  
 
