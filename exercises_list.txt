@@ -78,6 +78,8 @@ dragons:
     - baby dragon
     - arnold dragon
     - sanchin dragon
+    - flip dragon
+    - reversing dragon
 
 pair exercises:
   basic throw
