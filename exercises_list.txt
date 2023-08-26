@@ -53,6 +53,7 @@ solo exercises:
       - down cowboy
       - side cowboy
       - crossbody cowboy
+      - the terminator
      
     catches:
       - cannonball catch
@@ -61,7 +62,8 @@ solo exercises:
          - figure 8 -> lateral swing
       - around the body spin
       - dragon ball catch
-    
+      - tap and catch (1/2 flip)
+
     holds:
       - vertical hold.
       - look! It's a kettlebell! 
@@ -90,6 +92,7 @@ pair exercises:
   - lateral throw from body spin.
 
   volleyball throw
+  overhead backward thow
   dragon throw
   half sombrero
   full sombrero
