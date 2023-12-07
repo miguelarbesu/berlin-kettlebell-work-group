@@ -9,7 +9,12 @@
         - side flip
         - palm spin
         - fake offer
-          - fake offer -> flip 
+        	- front flip -> fake offer
+         	- bakl flip -> fake offer	  
+      	   
+          - fake offer -> flip
+            - fake offer -> underhand catch -> flip
+  		  
     - double flip:
         - double front
         - double back
@@ -25,6 +30,7 @@
         - double front / back
         - upper - downer
         - crossbody cross
+        
 - one hand:
     - flips:
         - front flip
