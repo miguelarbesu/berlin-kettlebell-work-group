@@ -10,7 +10,7 @@
         - palm spin
         - fake offer
         	- front flip -> fake offer
-         	- bakl flip -> fake offer	  
+         	- back flip -> fake offer	  
       	   
           - fake offer -> flip
             - fake offer -> underhand catch -> flip
@@ -86,7 +86,7 @@
 	- cannonball throw
 	- overhead throw
     - volleyball throw
-    - overhead backward thow
+    - overhead backward throw
     - dragon throw
     - half sombrero
     - full sombrero
