@@ -49,6 +49,7 @@
             - side cowboy
             - crossbody cowboy
             - the terminator
+        - one hand screw-driver flip throw
     - catches:
         - cannonball catch
         - figure 8 catch
